@@ -1,0 +1,527 @@
+code,title,from,has_conflict
+-10,无法判断,"cfps10, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+-9,缺失,"cfps10, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+-8,不适用,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+-7,职业描述不清，无法分类,"cfps10, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+-2,拒绝回答,"cfps10, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+-1,不知道,"cfps10, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10000,国家机关、党群组织、企业、事业单位负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10100,中国共产党中央委员会和地方各级组织负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10101,中国共产党中央委员会和地方各级组织负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10200,国家机关及其工作机构负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10201,国家权力机关及其工作机构负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10202,人民政协及其工作机构负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10203,人民法院负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10204,人民检察院负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10205,国家行政机关及其工作机构负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10209,其他国家机关及其工作机构负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10300,民主党派和社会团体及其工作机构负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10301,民主党派负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10302,工会、共青团、妇联、其他人民团体及其工作,cfps12,TRUE
+10302,工会、共青团、妇联、其他人民团体及其工作机构负责人,"cfps10, cfps14, cfps16, cfps18, cfps20, cfps22",TRUE
+10303,群众自治组织负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10309,其他社会团体及工作机构负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10400,事业单位负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10401,教育教学单位负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10402,卫生单位负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10403,科研单位负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10409,其他事业单位负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10500,企业负责人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10501,企业负责人,cfps10,FALSE
+10510,企业负责人,"cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10520,生产经营方面的部门经理或主管,"cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10530,其他部门经理或主管,"cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10544,批发、零售业业个体经营业主,"cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10545,餐馆、旅店方面的个体经营业主,"cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10546,仓储、运输、交通类个体经营业主,"cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10547,商务服务业经营业主,"cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10548,保健娱乐、家政方面的个体经营业主,"cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10549,集市个体摊位业主,"cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10550,街头个体食品摊位业主,"cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10551,其他街头摊位售卖者,"cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10552,其他个体经营业主,"cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+10554,数据错误,"cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20000,专业技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20100,文学艺术工作人员,"cfps10, cfps14, cfps16, cfps18",TRUE
+20100,科学研究人员,"cfps12, cfps20, cfps22",TRUE
+20101,哲学研究人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20102,经济学研究人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20103,法学研究人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20104,社会学研究人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20105,教育科学研究人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20106,文学、艺术研究人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20107,图书馆学、情报学研究人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20108,历史学研究人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20109,管理科学研究人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20111,数学研究人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20112,物理学研究人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20113,化学研究人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20114,天文学研究人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20115,地球科学研究人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20116,生物科学研究人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20117,农业科学研究人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20118,医学研究人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20119,其他科学研究人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20200,工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20201,地质勘探工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20202,测绘工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20203,矿山工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20204,石油工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20205,冶金工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20206,化工工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20207,机械工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20208,兵器工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20209,航空工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20211,航天工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20212,电子工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20213,通信工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20214,计算机与应用工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20215,电气工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20216,电力工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20217,邮政工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20218,广播、电影、电视工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20219,交通工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20221,民用航空工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20222,铁路工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20223,建筑工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20224,建材工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20225,林业工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20226,水利工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20227,海洋工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20228,水产工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20229,纺织工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20231,食品工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20232,气象工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20233,地震工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20234,环境保护工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20235,安全工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20236,标准化、计量、质量工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20237,管理（工业）工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20239,其他工程技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20300,农业技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20301,土壤肥料技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20302,植物保护技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20303,园艺技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20304,作物遗传育种栽培技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20305,兽医、兽药技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20306,畜牧与草业技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20309,其他农业技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20400,飞机和船舶技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20401,飞机人员和领航人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20402,船舶指挥和领航人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20409,其他飞机和船舶技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20500,卫生专业技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20501,西医医师,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20502,中医医师,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20503,中西医结合医师,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20504,民族医生,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20505,公共卫生医师,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20506,药剂人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20507,医疗技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20508,护理人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20509,其他卫生专业技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20600,经济业务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20601,经济计划人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20602,统计人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20603,会计人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20604,审计人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20605,国际商务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20609,其他经济业务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20700,金融业务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20701,银行业务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20702,保险业务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20703,证券业务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20709,其他金融业务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20800,法律专业人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20801,法官,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20802,检察官,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20803,律师,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20804,公证员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20805,司法鉴定人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20806,书记员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20809,其他法律专业人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20900,教学人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20901,高等教育教师,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20902,中等职业教育教师,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20903,中学教师,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20904,小学教师,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20905,幼儿教师,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20906,特殊教育教师,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+20909,其他教学人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21000,文学艺术工作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21001,文艺创作和评论人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21002,编导和音乐指挥人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21003,演员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21004,乐器演奏员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21005,电影、电视制作及舞台专业人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21006,美术专业人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21007,工艺美术专业人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21009,其他文学艺术工作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21100,体育工作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21101,体育工作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21107,数据错误,"cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21200,新闻出版、文化工作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21201,记者,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21202,编辑,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21203,校对员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21204,播音员及节目主持人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21205,翻译,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21206,图书资料与档案业务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21207,考古及文物保护工作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21209,其他新闻出版、文化工作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21300,宗教职业者,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21301,宗教职业者,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21900,其他专业技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+21901,其他专业技术人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+24000,数据错误,"cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+30000,办事人员和有关人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+30100,行政办公人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+30101,行政业务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+30102,行政事务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+30109,其他行政办公人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+30200,安全保卫和消防人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+30201,人民警察,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+30202,治安保卫人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+30203,消防人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+30209,其他安全保卫和消防人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+30300,邮政和电信业务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+30301,邮政业务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+30302,电信业务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+30303,电信通信传输业务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+30309,其他邮政和电信业务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+30900,其他办事人员和有关人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+30901,其他办事人员和有关人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40000,商业、服务业人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40100,购销人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40101,营业人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40102,推销、展销人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40103,采购人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40104,拍卖、典当及租赁业务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40105,废旧物资回收利用人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40106,粮油管理人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40107,商品监督和市场管理人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40109,其他购销人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40200,仓储人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40201,保管人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40202,储运人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40209,其他仓储人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40300,餐饮服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40301,中餐烹饪人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40302,西餐烹饪人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40303,调酒和茶艺人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40304,营养配餐人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40305,餐厅服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40309,其他餐饮服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40400,饭店、旅游及健身娱乐场所服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40401,饭店服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40402,旅游及公共游览场所服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40403,健身和娱乐场所服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40409,其他饭店、旅游及健身娱乐场所服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40500,运输服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40501,公路、道路运输服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40502,铁路客货运输服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40503,航空运输服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40504,水上运输服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40509,其他运输服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40600,医疗卫生辅助服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40601,医疗卫生辅助服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40700,社会服务和居民生活服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40701,社会中介服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40702,物业管理人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40703,供水、供热及生活燃料供应人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40704,美容美发人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40705,摄影服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40706,验光配镜人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40707,洗染织补人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40708,浴池服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40709,印章刻字人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40710,数据错误,"cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40711,日用机电产品维修人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40712,办公设备维修人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40713,保育、家庭服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40714,环境卫生人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40715,殡葬服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40719,其他社会服务和居民生活服务人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40900,其他商业、服务业人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+40901,其他商业、服务业人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50000,农、林、牧、渔、水利业生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50100,种植业生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50101,大田作物生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50102,农业试验人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50103,园艺作物生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50104,热带作物生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50105,中药材生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50106,农副林特产品加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50109,其他种植业生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50200,林业生产及野生动植物保护人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50201,营造林人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50202,森林资源管护人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50203,野生动植物保护及自然保护区人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50204,木材采运人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50209,其他林业生产及野生动植物保护人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50300,畜牧业生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50301,家畜饲养人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50302,家禽饲养人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50303,蜜蜂饲养人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50304,实验动物饲养人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50305,动物疫病防治人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50306,草业生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50309,其他畜牧业生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50400,渔业生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50401,水产养殖人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50402,水产捕捞及有关人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50403,水产品加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50409,其他渔业生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50500,水利设施管理养护人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50501,河道、水库管养人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50502,农田灌溉工程建设管理维护人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50503,水土保持作业人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50504,水文勘测作业人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50509,其他水利设施管理养护人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50900,其他农、林、牧、渔、水利业生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50901,农林专用机械操作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+50902,农村能源开发利用人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60000,生产、运输设备操作人员及有关人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60100,勘测及矿物开采人员,"cfps12, cfps20, cfps22",TRUE
+60100,纺织、针织、印染人员,"cfps10, cfps14, cfps16, cfps18",TRUE
+60101,地质勘查人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60102,测绘人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60103,矿物开采人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60104,矿物处理人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60105,钻井人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60106,石油、天然气开采人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60107,盐业生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60109,其他勘测及矿物开采人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60200,工艺、美术品制作人员,"cfps10, cfps14, cfps16, cfps18",TRUE
+60200,金属冶炼、轧制人员,"cfps12, cfps20, cfps22",TRUE
+60201,炼铁人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60202,炼钢人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60203,铁合金冶炼人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60204,重有色金属冶炼人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60205,轻有色金属冶炼人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60206,稀贵金属冶炼人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60207,半导体材料制备人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60208,金属轧制人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60209,铸铁管人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60211,炭素制品生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60212,硬质合金生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60219,其他金属冶炼、轧制人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60300,化工产品生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60301,化工产品生产通用工艺人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60302,石油炼制生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60303,煤化工生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60304,化学肥料生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60305,无机化工产品生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60306,基本有机化工产品生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60307,合成树脂生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60308,合成橡胶生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60309,化学纤维生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60311,合成革生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60312,精细化工产品生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60313,信息记录材料生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60314,火药、炸药制造人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60315,林产化工产品生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60316,复合材料加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60317,日用化学品生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60319,其他化工产品生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60400,机械制造加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60401,机械冷加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60402,机械热加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60403,特种加工设备操作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60404,冷作钣金加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60405,工件表面处理加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60406,磨料磨具制造加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60407,航天器件加工成型人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60409,其他机械制造加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60500,机电产品装配人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60501,基础件、部件装配人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60502,机械设备装配人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60503,动力设备装配人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60504,电子元件及设备装配人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60505,电子专用设备装配调试人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60506,仪器仪表装配人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60507,运输车辆装配人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60508,膜法水处理设备制造人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60509,医疗器械设备及假肢与矫形器制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60511,日用机械电器制作装配人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60512,五金制品制作、装配人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60513,装甲车辆装试人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60514,枪炮制造人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60515,弹制造人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60516,引信加工制造人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60517,火工品制造人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60518,防化器材制造人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60519,船舶制造人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60521,航空产品装配与调试人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60522,航空产品试验人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60523,导弹卫星装配测试人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60524,火箭发动机装配试验人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60525,航天器结构强度、温度、环境试验人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60526,靶场试验人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60529,其他机电产品装配人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60552,数据错误,"cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60600,机械设备修理人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60601,机械设备维修人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60602,仪器仪表修理人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60603,民用航空器维修人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60609,其他机械设备修理人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60700,电力设备安装、运行、检修及供电人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60701,电力设备安装人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60702,发电运行值班人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60703,输电、配电、变电设备值班人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60704,电力设备检修人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60705,供用电人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60706,生活、生产电力设备安装、操作、修理人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60709,其他电力设备安装、运行、检修及供电人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60800,电子元器件与设备制造、装配、调试及维修人,cfps12,TRUE
+60800,电子元器件与设备制造、装配、调试及维修人员,"cfps10, cfps14, cfps16, cfps18, cfps20, cfps22",TRUE
+60801,电子器件制造人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60802,电子元件制造人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60803,电池制造人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60804,电子设备装配、调试人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60805,电子产品维修人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60809,其他电子元器件与设备制造、装配、调试及维,cfps12,TRUE
+60809,其他电子元器件与设备制造、装配、调试及维修人员,"cfps10, cfps14, cfps16, cfps18, cfps20, cfps22",TRUE
+60900,橡胶和塑料制品生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60901,橡胶制品生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60902,塑料制品加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60903,数据错误,"cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+60909,其他橡胶和塑料制品生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61000,纺织、针织、印染人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61001,纤维预处理人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61002,纺纱人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61003,织造人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61004,针织人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61005,印染人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61009,其他纺织、针织、印染人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61100,裁剪、缝纫和皮革、毛皮制品加工制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61101,裁剪、缝纫人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61102,鞋帽制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61103,皮革、毛皮加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61104,缝纫制品在加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61109,其他裁剪、缝纫和皮革、毛皮制品加工制作人,cfps12,TRUE
+61109,其他裁剪、缝纫和皮革、毛皮制品加工制作人员,"cfps10, cfps14, cfps16, cfps18, cfps20, cfps22",TRUE
+61200,粮油、食品、饮料生产加工及饲料生产加工人,cfps12,TRUE
+61200,粮油、食品、饮料生产加工及饲料生产加工人员,"cfps10, cfps14, cfps16, cfps18, cfps20, cfps22",TRUE
+61201,粮油生产加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61202,制糖和糖制品加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61203,乳品、冷食品及罐头、饮料制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61204,酿酒、食品添加剂及调味品制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61205,粮油食品制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61206,屠宰加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61207,肉、蛋食品加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61208,饲料生产加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61209,其他粮油、食品、饮料生产加工及饲料生产加,cfps12,TRUE
+61209,其他粮油、食品、饮料生产加工及饲料生产加工人员,"cfps10, cfps14, cfps16, cfps18, cfps20, cfps22",TRUE
+61300,烟草及其制品加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61301,原烟复烤人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61302,卷烟生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61303,烟用醋酸纤维丝束滤棒制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61309,其他烟草及制品加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61400,药品生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61401,合成药物制造人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61402,生物技术制药（品）人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61403,药物制剂人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61404,中药制药人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61409,其他药品生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61500,木材加工、人造板生产、木制品制作及制浆、,cfps12,TRUE
+61500,木材加工、人造板生产、木制品制作及制浆、造纸和纸制品生产加工,"cfps10, cfps14, cfps16, cfps18, cfps20, cfps22",TRUE
+61501,木材加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61502,人造板生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61503,木材制品制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61504,制浆人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61505,造纸人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61506,纸制品制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61509,其他木材加工、人造板生产、木制品制作及制,cfps12,TRUE
+61509,其他木材加工、人造板生产、木制品制作及制浆、造纸和纸制品生产,"cfps10, cfps14, cfps16, cfps18, cfps20, cfps22",TRUE
+61600,建筑材料生产加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61601,水泥及水泥制品生产加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61602,墙体屋面材料生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61603,建筑防水密封材料生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61604,建筑保温及吸音材料生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61605,装饰石材生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61606,非金属矿及其制品生产加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61607,耐火材料生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61609,其他建筑材料生产加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61700,玻璃、陶瓷、搪瓷及其制品生产加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61701,玻璃熔制人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61702,玻璃纤维及其制品生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61703,石英玻璃制品加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61704,陶瓷制品生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61705,搪瓷制品生产人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61709,其他玻璃、陶瓷、搪瓷及其制品生产加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61800,广播影视制品制作、播放及文物保护作业人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61801,影视制品制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61802,音像制品制作复制人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61803,广播影视舞台设备安装调试及运行操作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61804,电影放映人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61805,文物保护作业人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61809,其他广播影视制品制作、播放及文物保护作业,cfps12,TRUE
+61809,其他广播影视制品制作、播放及文物保护作业人员,"cfps10, cfps14, cfps16, cfps18, cfps20, cfps22",TRUE
+61900,印刷人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61901,印前处理人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61902,印刷操作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61903,印后制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+61909,其他印刷人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62000,工艺、美术品制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62001,珠宝首饰加工制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62002,地毯制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62003,玩具制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62004,漆器工艺品制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62005,抽纱、刺绣工艺品制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62006,金属工艺品制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62007,雕刻工艺品制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62008,美术品制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62009,其他工艺、美术品制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62100,文化教育、体育用品制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62101,文教用品制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62102,体育用品制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62103,乐器制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62109,其他文化教育、体育用品制作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62200,工程施工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62201,土石方施工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62202,砌筑人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62203,混凝土配制及制品加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62204,钢筋加工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62205,施工架子搭设人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62206,工程防水人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62207,装饰、装修人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62208,古建筑修建人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62209,筑路、养护、维修人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62211,工程设备安装人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62219,其他工程施工人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62300,运输设备操作人员及有关人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62301,公（道）路运输机械设备操作及有关人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62302,铁路、地铁运输机械设备操作及有关人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62303,民用航空设备操作及有关人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62304,水上运输设备操作及有关人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62305,起重装卸机械操作及有关人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62309,其他运输设备操作人员及有关人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62400,环境监测及废物处理人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62401,环境监测人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62402,海洋环境调查与检测人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62403,废物处理人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62409,其他环境监测与废物处理人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62500,检验、计量人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62501,检验人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62502,航空产品检验人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62503,航天器检验、测试人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62504,计量人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62509,其他检验、计量人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62706,数据错误,"cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62900,其他生产运输设备操作人员及有关人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62901,包装人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62902,机泵操作人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+62903,简单体力劳动人员,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+63509,数据错误,"cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+70000,军人,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+80000,无职业者分类及代码,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+90000,不便分类的其他人群,"cfps10, cfps12, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+99000,数据错误,"cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+99700,零工、临工、散工、打工、工作、上班、务工,"cfps10, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+99800,工人,"cfps10, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+99900,技术工人、技工、技术员、操作工,"cfps10, cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+99998,数据错误,"cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+99999,无法编码,"cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+660405,数据错误,"cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
+999999,无法编码,"cfps14, cfps16, cfps18, cfps20, cfps22",FALSE
